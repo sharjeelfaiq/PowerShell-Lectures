@@ -13,9 +13,9 @@ Write-Host $localVariable
 
 # Script Scope
 $scriptVariable = "I am a script variable";
-function Test-Scope {
+function Test-Scope3 {
     Write-Host $scriptVariable
 }
 
-Test-Scope
+Test-Scope3
 Write-Host $scriptVariable
