@@ -1,3 +1,5 @@
+#Variable Scope
+
 # Local Scope
 function Test-Scope1 {
     $localVariable = "I am a local variable.";
