@@ -1,3 +1,5 @@
+#Automatic Variables
+
 #@PSVersionTable
 $PSVersionTable
 if ($PSVersionTable.PSVersion.Major -le 5) {
